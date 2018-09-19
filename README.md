@@ -1,4 +1,5 @@
-#Sorting-Algorithms
+# Sorting-Algorithms
 
 Merge Sort Algorithm
+
 Insertion Sort Algorithm
